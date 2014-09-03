@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+<question>
+		<question_text>Age?</question_text>
+		<choices>
+			<choicetext>≥ 65 years</choicetext>
+			<choicetext>&lt; 65 years</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Age ≥ 65 years &lt;sup&gt;1,2,5,6&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+	
+    <question>
+		<question_text>Left Ventricular Ejection Fraction?</question_text>
+		<choices>
+			<choicetext>≤ 35%</choicetext>
+			<choicetext>&gt; 35%</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>4</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>LVEF ≤ 35% &lt;sup&gt;1,2,3,4&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+    <question>
+		<question_text>Renal Insufficiency?</question_text>
+		<choices>
+			<choicetext>Yes</choicetext>
+			<choicetext>No</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>3</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Renal Insufficiency &lt;sup&gt;1&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Killip Class?</question_text>
+		<choices>
+			<choicetext>Class I</choicetext>
+			<choicetext>Class II</choicetext>
+			<choicetext>Class III</choicetext>
+			<choicetext>Class IV</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>0</selection_value>
+			<selection_value>3</selection_value>
+			<selection_value>3</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>&#160;</feedback_value>
+			<feedback_value>Killip Class II &lt;sup&gt;1,5&lt;/sup&gt;</feedback_value>
+			<feedback_value>Killip Class III &lt;sup&gt;1,5&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Final TIMI Flow?</question_text>
+		<choices>
+			<choicetext>0-2</choicetext>
+			<choicetext>3</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Final TIMI Flow 0-2 &lt;sup&gt;1&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Multi-Vessel Disease?</question_text>
+		<choices>
+			<choicetext>Yes</choicetext>
+			<choicetext>No</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Multi-Vessel Disease &lt;sup&gt;1,2,3,4&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Anemia?</question_text>
+		<choices>
+			<choicetext>Yes</choicetext>
+			<choicetext>No</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Anemia &lt;sup&gt;1&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Previous MI?</question_text>
+		<choices>
+			<choicetext>Yes</choicetext>
+			<choicetext>No</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Previous MI &lt;sup&gt;3&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Type 2 Diabetes?</question_text>
+		<choices>
+			<choicetext>Yes</choicetext>
+			<choicetext>No</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Type 2 Diabetes &lt;sup&gt;5,7&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Hypertension?</question_text>
+		<choices>
+			<choicetext>Yes</choicetext>
+			<choicetext>No</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>1</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Hypertension &lt;sup&gt;5&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>	
+</questions>
