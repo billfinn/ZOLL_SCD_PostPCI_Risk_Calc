@@ -33,12 +33,20 @@ public final class R {
         public static final int button_normal=0x7f020007;
         public static final int button_pressed=0x7f020008;
         public static final int home_header=0x7f020009;
+<<<<<<< HEAD
         public static final int home_header_de=0x7f02000a;
         public static final int ic_launcher=0x7f02000b;
         public static final int infobutton=0x7f02000c;
         public static final int questions_listitem=0x7f02000d;
         public static final int referencetopglow=0x7f02000e;
         public static final int rounded_corners=0x7f02000f;
+=======
+        public static final int ic_launcher=0x7f02000a;
+        public static final int infobutton=0x7f02000b;
+        public static final int questions_listitem=0x7f02000c;
+        public static final int referencetopglow=0x7f02000d;
+        public static final int rounded_corners=0x7f02000e;
+>>>>>>> FETCH_HEAD
     }
     public static final class id {
         public static final int ButtonBack=0x7f0a0015;

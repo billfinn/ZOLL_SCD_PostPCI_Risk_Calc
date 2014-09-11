@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      
+<<<<<<< HEAD
     <string name="app_name">PHT – Risiko Post-PCI</string>
+=======
+    <string name="app_name">SCA Post-PCI</string>
+>>>>>>> FETCH_HEAD
     <string name="action_settings">Settings</string>
     
     <string name="terms_of_use_title">Nutzungsbedingungen</string>
@@ -9,13 +13,22 @@
     <string name="terms_of_use_accept">Akzeptieren</string>
     
     <string name="title_activity_start">Start Activity</string>
+<<<<<<< HEAD
     <string name="start_title">Risikorechner für plötzlichen Herztod nach PCI-Behandlung</string>
     <string name="start_text">Um den Risikorechner für plötzlichen Herztod nach PCI-Behandlung zu verwenden, wählen Sie "Start" aus. Sie werden gebeten, einige Fragen zu beantworten, die das Risikoprofil des Patienten ermitteln. Die eingegebenen Informationen werden verwendet, um den Risikostatus des Patienten zu bestimmen.</string>
+=======
+    <string name="start_title">Risikokalkulator für plötzlichen Herztod nach PCI-Behandlung</string>
+    <string name="start_text">Um den Risikokalkulator für plötzlichen Herztod nach PCI-Behandlung zu verwenden, wählen Sie "Start" aus. Sie werden gebeten, einige Fragen zu beanworten, die das Risikoprofil des Patienten beschreiben. Die eingegebenen Informationen werden verwendet, um den Risikostatus des Patienten zu bestimmen.</string>
+>>>>>>> FETCH_HEAD
     <string name="start_button_label">Start</string>
     <string name="button">Stream Video</string>
     <string name="infobtn">Information</string>
     
+<<<<<<< HEAD
     <string name="button_back">Fertig</string>
+=======
+    <string name="button_back">Done</string>
+>>>>>>> FETCH_HEAD
     
     <string name="title_activity_questions">QuestionsActivity</string>
     <string name="question_button_prev">Vorherige</string>
