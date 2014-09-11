@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+<question>
+		<question_text>Alter?</question_text>
+		<choices>
+			<choicetext>≥ 65 Jahre</choicetext>
+			<choicetext>&lt; 65 Jahre</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Alter ≥ 65 Jahre &lt;sup&gt;1,2,5,6&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+	
+    <question>
+		<question_text>Linksventr. Ejektionsfraktion?</question_text>
+		<choices>
+			<choicetext>≤ 35%</choicetext>
+			<choicetext>&gt; 35%</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>4</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>LVEF ≤ 35% &lt;sup&gt;1,2,3,4&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+    <question>
+		<question_text>Niereninsuffizienz?</question_text>
+		<choices>
+			<choicetext>Ja</choicetext>
+			<choicetext>Nein</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>3</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Niereninsuffizienz &lt;sup&gt;1&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Killip-Klasse?</question_text>
+		<choices>
+			<choicetext>Klasse I</choicetext>
+			<choicetext>Klasse II</choicetext>
+			<choicetext>Klasse III</choicetext>
+			<choicetext>Klasse IV</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>0</selection_value>
+			<selection_value>3</selection_value>
+			<selection_value>3</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>&#160;</feedback_value>
+			<feedback_value>Killip-Klasse II &lt;sup&gt;1,5&lt;/sup&gt;</feedback_value>
+			<feedback_value>Killip-Klasse III &lt;sup&gt;1,5&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Finaler TIMI-Flow?</question_text>
+		<choices>
+			<choicetext>0-2</choicetext>
+			<choicetext>3</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Finaler TIMI-Flow 0-2 &lt;sup&gt;1&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Mehrgefäßerkrankung?</question_text>
+		<choices>
+			<choicetext>Ja</choicetext>
+			<choicetext>Nein</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Mehrgefäßerkrankung &lt;sup&gt;1,2,3,4&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Anämie?</question_text>
+		<choices>
+			<choicetext>Ja</choicetext>
+			<choicetext>Nein</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Anämie &lt;sup&gt;1&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Zustand nach Myokardinfarkt?</question_text>
+		<choices>
+			<choicetext>Ja</choicetext>
+			<choicetext>Nein</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Zustand nach Myokardinfarkt &lt;sup&gt;3&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Typ-2-Diabetes?</question_text>
+		<choices>
+			<choicetext>Ja</choicetext>
+			<choicetext>Nein</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>2</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Typ-2-Diabetes &lt;sup&gt;5,7&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>
+
+    <question>
+		<question_text>Hypertonie?</question_text>
+		<choices>
+			<choicetext>Ja</choicetext>
+			<choicetext>Nein</choicetext>
+		</choices>
+		<selection_values>
+			<selection_value>1</selection_value>
+			<selection_value>0</selection_value>
+		</selection_values>
+		<selection_feedback>
+			<feedback_value>Hypertonie &lt;sup&gt;5&lt;/sup&gt;</feedback_value>
+			<feedback_value>&#160;</feedback_value>
+		</selection_feedback>
+	</question>	
+</questions>

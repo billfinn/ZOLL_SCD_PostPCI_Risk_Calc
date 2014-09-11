@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="WrongViewCast">
+        <ignore path="src/com/finndigital/zol1401a/ResultsActivity.java" />
+    </issue>
+</lint>
